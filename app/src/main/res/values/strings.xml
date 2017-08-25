@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Ocr dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">中榮讀卡機</string>
+    <string name="ocr_header">點擊下方按鈕</string>
+    <string name="read_text">開始識別身分證</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="ocr_success">識別成功</string>
+    <string name="ocr_failure">識別失敗</string>
+    <string name="ocr_error">識別錯誤</string>
+</resources>
